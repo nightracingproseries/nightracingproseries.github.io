@@ -6,11 +6,17 @@ body {
   font-family: arial;
 }
 
+.container {
+  position: relative;
+}
+
 .body {
+  position: absolute;
   z-index: 10;
 }
 
 .wheels {
+  position: absolute;
   z-index: 1;
   margin-right: 50px;
 }
