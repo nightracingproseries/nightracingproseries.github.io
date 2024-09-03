@@ -1,0 +1,30 @@
+<svg width="200" height="70" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <polyline points="16,26 10,29 7,25 15,26 35,25 61,15 60,13 63.8,14 105,14 135.8,26 141,27 171,29.3 179,30 193,36.7 194,37 196,34 193.8,43.8 195,44.7 194,50 191,57 195.2,60 179,60"
+    fill="none" stroke="black" stroke-width="2" />
+  <path d="M 140,60
+         C 146,36 173,38 179,60"
+  fill="none" stroke="black" stroke-width="2" />
+  <polyline points="140,60 70,60"
+    fill="none" stroke="black" stroke-width="2" />
+  <path d="M 30,60
+         C 37,36 63,38 70,60"
+  fill="none" stroke="black" stroke-width="2" />
+  <polyline points="30,60 15,59 13,55 10,54 6,53  5,43 5.8,40 6,38 10,29 16,26"
+    fill="none" stroke="black" stroke-width="2" />
+  <polyline points="64,24 67,20 73,18 103,18 128,29 124,30 80,29 64,24"
+    fill="none" stroke="black" stroke-width="2" />
+  <polyline points="80,29 82,18"
+    fill="none" stroke="black" stroke-width="2" />
+  <!-- Details -->
+  <polyline points="16,26 10,29 7,25 16,26"
+    fill="black" stroke="black" stroke-width="2" />
+  <polyline points="61,15 60,13 63.8,14 61,15"
+    fill="black" stroke="black" stroke-width="2" />
+  <polyline points="191,57 178,57 179,60 195,60"
+    fill="black" stroke="black" stroke-width="2" />
+  <polyline points="140,57 70,57 70,60 140,60"
+    fill="black" stroke="black" stroke-width="2" />
+  <polyline points="30,57 15,57 15,58 30,60"
+    fill="black" stroke="black" stroke-width="2" />
+</svg>
