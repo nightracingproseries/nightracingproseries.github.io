@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "python": "^0.0.4"
+  },
+  "scripts": {
+    "upload": "./edit.sh"
   }
 }
