@@ -1,5 +1,5 @@
 git add .
-git commit -m "dingus"
+git commit -m "big dingus"
 git push origin main
 
 clear
