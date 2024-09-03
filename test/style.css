@@ -19,4 +19,5 @@ body {
   position: absolute;
   z-index: 1;
   margin-right: 50px;
+  margin-top: 2px;
 }
