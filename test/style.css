@@ -5,7 +5,7 @@ h1 {
 body {
   font-family: arial;
   background-image: url('../assets/imgs/background-main.svg');
-  background-size: fill;
+  background-size: cover;
 }
 
 .race-box {
