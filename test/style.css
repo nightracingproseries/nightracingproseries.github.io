@@ -5,6 +5,12 @@ h1 {
 body {
   font-family: arial;
   background-image: url('../assets/imgs/background-main.svg');
+  background-size: fill;
+}
+
+.race-box {
+  padding: 2px;
+  background-color: rgb(120, 30, 140);
 }
 
 .container {
